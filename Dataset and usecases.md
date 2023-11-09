@@ -1,4 +1,4 @@
-## usecase
+## Usecase
 
 The owner of a store requires few insights which will best support him for his business development. He also requires a automated solution for new addition of files dynamically. This repository will hold the process of data cleaning, merging csv files, data visualization, insight extraction, pivot table creation and automation of process.
 
