@@ -10,9 +10,7 @@ You have to clean this bad data before you start analyzing it, especially if you
 
 Why? Because it can offer misleading or incorrect insights. If you’re using these insights to navigate important business decisions then this could be potentially devastating.
 
-It can also be costly. Research from Gartner has found that bad data costs businesses anywhere from $9.7 million to $14.2 million annually. 
-
-At the least working with bad data is a massive waste of time. 
+It can also be costly.At the least working with bad data is a massive waste of time. 
 
 It’s useful here to think of the commonly used phrase: “garbage in, garbage out”. 
 
