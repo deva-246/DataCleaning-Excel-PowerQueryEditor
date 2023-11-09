@@ -18,12 +18,12 @@
 
 5. Now change the data type of profit and sales into currency by clicking the small box present at the left side of each title.
 
-    3.1 To merge the columns, select both the columns > right click > merge columns
+    5.1 To merge the columns, select both the columns > right click > merge columns
 
-    3.2 Now, mention a seperator if needed, in our case mr/mrs/ms.name would do, so mention a dot as a 
+    5.2 Now, mention a seperator if needed, in our case mr/mrs/ms.name would do, so mention a dot as a 
         seperator
 
-6. Now add a new column named as 'Shipping' to the exisisting table.
+6. Now Load and transform the data, this will be redirected to the excel window.
 
 
 ## Table after Data cleaning
