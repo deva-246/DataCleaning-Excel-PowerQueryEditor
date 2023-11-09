@@ -10,11 +10,25 @@
 
 3. There are 2 columns named name and Mr/Ms/Mrs, this looks irrelevant and thus can be merged into a single column as 'full name'.
 
+4. Now add a new column named 'shipping' to the table with a value of 20 in order to support the profit calculation. This can be achieved by,
+
+   4.1 Add column > create custom column > give a name - 'shipping' > add formula / value - 20
+
+   4.2 Now add another column named 'profit' where the formula would be - (Sales - shipping)
+
+5. Now change the data type of profit and sales into currency by clicking the small box present at the left side of each title.
+
     3.1 To merge the columns, select both the columns > right click > merge columns
 
     3.2 Now, mention a seperator if needed, in our case mr/mrs/ms.name would do, so mention a dot as a 
         seperator
 
-4. Now add a new column named as 'Shipping' to the exisisting table.
+6. Now add a new column named as 'Shipping' to the exisisting table.
+
+
+## Table after Data cleaning
+
+![image](https://github.com/deva-246/DataCleaning-Excel-PowerQueryEditor/assets/75877347/ccf5a871-d037-4f91-98cd-470b77a449be)
+
 
 
