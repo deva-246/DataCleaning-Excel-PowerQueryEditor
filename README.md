@@ -56,7 +56,7 @@ To use Power Query in Excel, the following steps need to be performed:
    
    **Transform data:** Change, sort and shape data as per the requirements. For instance, one can delete or insert a row and/or column, replace a missing value, delete a duplicate entry, filter a column, and so on. These changes are recorded as a query in the sequence in which they are applied to the data.
    
-   **Consolidate data:** Consolidate or combine the data from the different sources. Once integrated, a consolidated database can be generated. The merging and appending of queries are carried out at this stage.
+   **Consolidate data:** Consolidate or combine the data from the different sources. Once integrated, a consolidated database can be    generated. The merging and appending of queries are carried out at this stage.
    
-   **Load data: **Load the data on a worksheet once it has been transformed and consolidated. Loading the data helps return an output in the workbook. The output can be in the form of a table, pivot chart or a pivot table Prior to loading, one can preview the data to ensure it is on the right track.
+   **Load data:** Load the data on a worksheet once it has been transformed and consolidated. Loading the data helps return an output in the workbook. The output can be in the form of a table, pivot chart or a pivot table Prior to loading, one can preview the data to ensure it is on the right track.
 
