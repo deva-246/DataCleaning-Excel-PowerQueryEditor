@@ -1,5 +1,9 @@
 # DataCleaning-Excel-PowerQueryEditor
 
+Microsoft Excel is one of the most used data handling/analysis software. At the same time, one tiny mistake in analyzing data can cause headaches. Simple errors like spacing, value error, format, duplicates, etc. usually miss our eye.
+
+Imagine the chaos when you handle large chunks of information. Keeping your Data clean and organized can take you miles ahead in your work ethics and efficiency.
+
 ## Data cleaning
 
 Data cleaning, data cleansing, or data scrubbing is the act of first identifying any issues or bad data, then systematically correcting these issues. If the data is unfixable, you will need to remove the bad elements to properly clean your data. 
